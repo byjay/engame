@@ -1,0 +1,6 @@
+{
+  "name": "보카 아케이드 3D",
+  "description": "안드로이드 영어학습앱 연동용 수능 영단어 3D 아케이드 게임 5종과 코인 적립·부모님 선물 요청 핸드오프 모듈",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
